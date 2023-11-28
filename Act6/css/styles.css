@@ -1,0 +1,25 @@
+.blue{
+  background-color: #0088ff;
+}
+.grey{
+  color:grey
+}
+h1{
+  font-size: 70px;
+}
+
+.lateral{
+  margin-top: 100px;
+}
+
+.lateral h4{
+  margin-top: 50px;
+}
+
+.first{
+  margin-left: 30vh;
+}
+
+.grey {
+  font-size: small; 
+}

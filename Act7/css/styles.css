@@ -1,0 +1,28 @@
+
+.h-full{
+  height: 65vh;
+}
+
+#header{
+  background-image: url('../img/Banner.png');
+  background-size: 100% ;
+  color: white;
+}
+
+.img {
+  width: 15rem;
+  height: 15rem;
+  border-radius: 50%;
+}
+
+.list-main {
+  list-style: none;
+}
+
+.list-main li::before {
+  content: "> ";
+  color: rgb(1, 97, 1);
+  font-weight: bold;
+  font-size: 30px; 
+}
+
